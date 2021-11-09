@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="noodles" size="0.300000 0.195652" />
+    <ImageTarget name="strawberrries" size="0.300000 0.269531" />
+    <ImageTarget name="fish" size="0.300000 0.229500" />
+    <ImageTarget name="pizzas" size="0.300000 0.179712" />
+    <ImageTarget name="oranges" size="0.300000 0.300000" />
+    <ImageTarget name="oils" size="0.300000 0.180000" />
+    <ImageTarget name="eggs" size="0.300000 0.300000" />
+    <ImageTarget name="breads" size="0.300000 0.225000" />
+    <ImageTarget name="bananas" size="0.300000 0.327966" />
+    <ImageTarget name="apples" size="0.300000 0.293706" />
+    <ImageTarget name="tea" size="0.300000 0.300000" />
+    <ImageTarget name="salt" size="0.300000 0.300000" />
+    <ImageTarget name="rice" size="0.300000 0.300000" />
+    <ImageTarget name="meat" size="0.300000 0.300462" />
+    <ImageTarget name="icecream" size="0.300000 0.457944" />
+    <ImageTarget name="fruits" size="0.300000 0.208563" />
+    <ImageTarget name="coffee" size="0.300000 0.300000" />
+    <ImageTarget name="chocolate" size="0.300000 0.217454" />
+  </Tracking>
+</QCARConfig>
